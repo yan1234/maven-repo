@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.yanling.android</groupId>
-  <artifactId>scanlibrary</artifactId>
+  <groupId>com.yanling.android.view</groupId>
+  <artifactId>imageshow</artifactId>
   <version>1.0</version>
   <versioning>
     <versions>
       <version>1.0</version>
     </versions>
-    <lastUpdated>20161108065729</lastUpdated>
+    <lastUpdated>20161108065855</lastUpdated>
   </versioning>
 </metadata>
